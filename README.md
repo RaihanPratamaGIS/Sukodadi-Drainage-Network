@@ -24,5 +24,5 @@ This project presents the spatial distribution of the drainage network in Sukoda
 
 ## Output
 
-*(Nanti kita tambahkan gambar peta di sini)*# Sukodadi-Drainage-Network
+*(Peta Drainase Sukodadi.png)*# Sukodadi-Drainage-Network
 GIS project for mapping the drainage network in Sukodadi Village using ArcGIS.
